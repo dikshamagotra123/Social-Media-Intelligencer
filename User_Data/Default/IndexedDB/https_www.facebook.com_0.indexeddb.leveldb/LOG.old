@@ -1,0 +1,8 @@
+2023/01/19-18:21:54.476 b803 Reusing MANIFEST /Users/sakshamtandon/Downloads/SMI/User_Data/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/19-18:21:54.477 b803 Recovering log #22
+2023/01/19-18:21:54.477 b803 Reusing old log /Users/sakshamtandon/Downloads/SMI/User_Data/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000022.log 
+2023/01/19-18:21:54.477 b803 Delete type=2 #17
+2023/01/19-18:21:54.498 8703 Level-0 table #27: started
+2023/01/19-18:21:54.498 8703 Level-0 table #27: 0 bytes OK
+2023/01/19-18:21:54.538 8703 Delete type=0 #22
+2023/01/19-18:21:54.540 8703 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

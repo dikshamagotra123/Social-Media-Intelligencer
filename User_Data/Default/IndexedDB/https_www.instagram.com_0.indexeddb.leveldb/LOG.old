@@ -1,0 +1,6 @@
+2023/03/08-23:00:37.416 9307 Reusing MANIFEST /Users/sakshamtandon/Downloads/SMI/User_Data/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/08-23:00:37.417 9307 Recovering log #13
+2023/03/08-23:00:37.435 9307 Reusing old log /Users/sakshamtandon/Downloads/SMI/User_Data/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/000013.log 
+2023/03/08-23:00:53.097 8e03 Level-0 table #17: started
+2023/03/08-23:00:53.130 8e03 Level-0 table #17: 1296280 bytes OK
+2023/03/08-23:00:53.166 8e03 Delete type=0 #13
